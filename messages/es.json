@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "siteName": "Marleny Joyería",
+    "homeTitle": "Marleny Joyería | Joyas de plata 950 en Arequipa",
+    "homeDescription": "Joyería en Arequipa: juegos de collar y aretes, collares y pulseras de plata 950. Visítanos en Calle Ayaviri 100 o pide por WhatsApp. Pago con Yape o efectivo.",
+    "shopTitle": "Tienda de joyas de plata 950",
+    "shopDescription": "Catálogo de Marleny Joyería: juegos de collar y aretes y collares de plata 950. Precios en soles y pedidos por WhatsApp desde Arequipa."
+  },
+  "nav": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "visit": "Visítanos",
+    "whatsapp": "WhatsApp",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "main": "Navegación principal",
+    "logoLabel": "Marleny Joyería, ir al inicio",
+    "skip": "Saltar al contenido"
+  },
+  "hero": {
+    "eyebrow": "Arequipa · Plata 950",
+    "titleLine1": "Plata que",
+    "titleAccent": "cuenta",
+    "titleLine2": "tu historia",
+    "discover": "Descubre la colección",
+    "cta": "Ver la tienda",
+    "cardTitle": "Marleny",
+    "cardText1": "Juegos de collar y aretes en plata 950, con filigrana, piedras y cristales que brillan a toda hora.",
+    "cardText2": "Elige tu favorito y pídelo por WhatsApp: te atendemos de lunes a sábado.",
+    "imageAlt": "Juego de collar y aretes Árbol de la Vida en plata 950"
+  },
+  "marquee": {
+    "items": "Plata 950 · Hecho para durar · Juegos de collar y aretes · Collares · Pulseras · Arequipa"
+  },
+  "intro": {
+    "eyebrow": "La colección",
+    "text": "Cada pieza es de plata 950 y se elige una por una. Diseños delicados para regalar, para celebrar o simplemente para ti."
+  },
+  "featured": {
+    "eyebrow": "Destacados",
+    "titleStart": "Piezas",
+    "titleAccent": "favoritas",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "region": "Productos destacados",
+    "viewAll": "Ver toda la tienda"
+  },
+  "banner": {
+    "wordLeft": "Brilla",
+    "wordRight": "siempre",
+    "text": "También tenemos pulseras de plata 950 en muchos modelos. Ven a verlas a la tienda.",
+    "cta": "Cómo llegar",
+    "imageAlt": "Pulseras de plata 950 en distintos modelos sobre fondo negro"
+  },
+  "statement": {
+    "line1": "Las joyas",
+    "line2": "no se guardan,",
+    "accent": "se viven."
+  },
+  "categoriesSection": {
+    "eyebrow": "Categorías",
+    "titleStart": "Encuentra",
+    "titleAccent": "tu joya",
+    "explore": "Explorar"
+  },
+  "categories": {
+    "todos": "Todos",
+    "juegos": "Juegos",
+    "collares": "Collares",
+    "juegosLong": "Juegos de collar y aretes",
+    "collaresLong": "Collares y dijes"
+  },
+  "visit": {
+    "eyebrow": "Visítanos",
+    "titleStart": "Te esperamos",
+    "titleAccent": "en Arequipa",
+    "addressLabel": "Dirección",
+    "address": "Calle Ayaviri 100, Arequipa",
+    "map": "Ver en Google Maps",
+    "hoursLabel": "Horario",
+    "hours": "Lunes a sábado",
+    "hoursTime": "8:00 a. m. – 6:00 p. m.",
+    "paymentLabel": "Formas de pago",
+    "payment": "Yape · Efectivo",
+    "contactLabel": "Contacto",
+    "call": "Llamar al {phone}",
+    "whatsappCta": "Escríbenos por WhatsApp"
+  },
+  "product": {
+    "material": "Plata 950",
+    "order": "Pedir por WhatsApp",
+    "orderAria": "Pedir {name} por WhatsApp",
+    "imageAlt": "{name} en plata 950"
+  },
+  "whatsapp": {
+    "general": "Hola Marleny Joyería, quisiera más información sobre sus joyas.",
+    "product": "Hola Marleny Joyería, me interesa: {name} ({price}). ¿Está disponible?"
+  },
+  "shop": {
+    "eyebrow": "Tienda",
+    "titleStart": "Joyas de",
+    "titleAccent": "plata 950",
+    "intro": "Elige tu pieza y pídela por WhatsApp. Pagas con Yape o en efectivo.",
+    "filterLabel": "Filtrar por categoría",
+    "sortLabel": "Ordenar",
+    "sortFeatured": "Destacados",
+    "sortPriceAsc": "Precio: menor a mayor",
+    "sortPriceDesc": "Precio: mayor a menor",
+    "sortName": "Nombre: A – Z",
+    "searchLabel": "Buscar joyas",
+    "searchPlaceholder": "Buscar: corazón, luna, cruz…",
+    "count": "{count, plural, =0 {Sin resultados} one {# pieza} other {# piezas}}",
+    "empty": "No encontramos joyas con esa búsqueda.",
+    "reset": "Ver todo"
+  },
+  "products": {
+    "items": {
+      "juego-arbol-de-la-vida": "Juego Árbol de la Vida",
+      "juego-flor-delicada": "Juego Flor Delicada",
+      "juego-corazon": "Juego Corazón",
+      "juego-corazon-rubi": "Juego Corazón Rubí",
+      "juego-luna-calada": "Juego Luna Calada",
+      "juego-osito-onix": "Juego Osito Ónix",
+      "juego-gatita-brillante": "Juego Gatita Brillante",
+      "juego-flor-de-loto": "Juego Flor de Loto",
+      "juego-flor-filigrana": "Juego Flor Filigrana",
+      "collar-flor-turquesa": "Collar Flor Turquesa",
+      "juego-mariposa-filigrana": "Juego Mariposa Filigrana",
+      "juego-estrella-filigrana": "Juego Estrella Filigrana",
+      "juego-flor-de-cerezo": "Juego Flor de Cerezo",
+      "juego-flor-de-jazmin": "Juego Flor de Jazmín",
+      "collar-cruz-clasica": "Collar Cruz Clásica",
+      "collar-ancla": "Collar Ancla",
+      "collar-medalla": "Collar Medalla",
+      "collar-timon-marinero": "Collar Timón Marinero"
+    }
+  },
+  "footer": {
+    "tagline": "Joyas de plata 950 en Arequipa.",
+    "navTitle": "Navegación",
+    "contactTitle": "Contacto",
+    "hoursTitle": "Horario",
+    "rights": "© {year} Marleny Joyería. Todos los derechos reservados."
+  }
+}
